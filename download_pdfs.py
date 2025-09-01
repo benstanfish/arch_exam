@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 url = 'https://www.jaeic.or.jp/smph/shiken/1k/1k-mondai.html'
 pdf_link_prefix = 'https://www.jaeic.or.jp/'
 
-save_dir = 'jaeic_pdfs'
+save_dir = 'pdfs'
 try:
     os.makedirs(save_dir)
 except:

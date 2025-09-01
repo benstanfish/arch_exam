@@ -5,14 +5,15 @@ import pymupdf
 dir = r'.\jaeic_pdfs'
 abs_dir = Path(dir).absolute()
 
-files = []
-for root, dirnames, filenames in os.walk(abs_dir):
-    for filename in filenames:
-        files.append(root + '\\' + filename)
+"""Use os.listdir() instead to iterate over files"""
+# files = []
+# for root, dirnames, filenames in os.walk(abs_dir):
+#     for filename in filenames:
+#         files.append(root + '\\' + filename)
 
-selected_files = [file for file in files
-                  if 'gakka' in file
-                  and 'toan' not in file]
+# selected_files = [file for file in files
+#                   if 'gakka' in file
+#                   and 'toan' not in file]
 # for file in selected_files:
 #     print(file)
 

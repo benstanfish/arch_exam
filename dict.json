@@ -1,0 +1,92 @@
+{
+    "year": {
+        "2015": [
+            "1k-2015-1st-gakka1_2.pdf",
+            "1k-2015-1st-gakka3.pdf",
+            "1k-2015-1st-gakka4_5.pdf"
+        ],
+        "2016": [
+            "1k-2016-1st-gakka1_2.pdf",
+            "1k-2016-1st-gakka3.pdf",
+            "1k-2016-1st-gakka4_5.pdf"
+        ],
+        "2017": [
+            "1k-2017-1st-gakka1_2.pdf",
+            "1k-2017-1st-gakka3.pdf",
+            "1k-2017-1st-gakka4_5.pdf"
+        ],
+        "2018": [
+            "1k-2018-1st-gakka1_2.pdf",
+            "1k-2018-1st-gakka3.pdf",
+            "1k-2018-1st-gakka4_5.pdf"
+        ],
+        "2019": [
+            "1k-2019-1st-gakka1_2.pdf",
+            "1k-2019-1st-gakka3.pdf",
+            "1k-2019-1st-gakka4_5.pdf"
+        ],
+        "2020": [
+            "1k-2020-1st-gakka1_2.pdf",
+            "1k-2020-1st-gakka3.pdf",
+            "1k-2020-1st-gakka4_5.pdf"
+        ],
+        "2021": [
+            "1k-2021-1st-gakka1_2-r.pdf",
+            "1k-2021-1st-gakka3.pdf",
+            "1k-2021-1st-gakka4_5.pdf"
+        ],
+        "2022": [
+            "1k-2022-1st-gakka1_2.pdf",
+            "1k-2022-1st-gakka3.pdf",
+            "1k-2022-1st-gakka4_5.pdf"
+        ],
+        "2023": [
+            "1k-2023-1st-gakka1_2.pdf",
+            "1k-2023-1st-gakka3.pdf",
+            "1k-2023-1st-gakka4_5.pdf"
+        ],
+        "2024": [
+            "1k-2024-1st-gakka1_2.pdf",
+            "1k-2024-1st-gakka3.pdf",
+            "1k-2024-1st-gakka4_5.pdf"
+        ]
+    },
+    "section": {
+        "gakka1_2": [
+            "1k-2015-1st-gakka1_2.pdf",
+            "1k-2016-1st-gakka1_2.pdf",
+            "1k-2017-1st-gakka1_2.pdf",
+            "1k-2018-1st-gakka1_2.pdf",
+            "1k-2019-1st-gakka1_2.pdf",
+            "1k-2020-1st-gakka1_2.pdf",
+            "1k-2021-1st-gakka1_2-r.pdf",
+            "1k-2022-1st-gakka1_2.pdf",
+            "1k-2023-1st-gakka1_2.pdf",
+            "1k-2024-1st-gakka1_2.pdf"
+        ],
+        "gakka3": [
+            "1k-2015-1st-gakka3.pdf",
+            "1k-2016-1st-gakka3.pdf",
+            "1k-2017-1st-gakka3.pdf",
+            "1k-2018-1st-gakka3.pdf",
+            "1k-2019-1st-gakka3.pdf",
+            "1k-2020-1st-gakka3.pdf",
+            "1k-2021-1st-gakka3.pdf",
+            "1k-2022-1st-gakka3.pdf",
+            "1k-2023-1st-gakka3.pdf",
+            "1k-2024-1st-gakka3.pdf"
+        ],
+        "gakka4_5": [
+            "1k-2015-1st-gakka4_5.pdf",
+            "1k-2016-1st-gakka4_5.pdf",
+            "1k-2017-1st-gakka4_5.pdf",
+            "1k-2018-1st-gakka4_5.pdf",
+            "1k-2019-1st-gakka4_5.pdf",
+            "1k-2020-1st-gakka4_5.pdf",
+            "1k-2021-1st-gakka4_5.pdf",
+            "1k-2022-1st-gakka4_5.pdf",
+            "1k-2023-1st-gakka4_5.pdf",
+            "1k-2024-1st-gakka4_5.pdf"
+        ]
+    }
+}
